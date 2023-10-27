@@ -1,0 +1,72 @@
+Use a calculator class
+while loop to calculate all income
+
+
+
+Four square method
+
+-----Box 1 -----
+
+Income:
+Rental Income - $2,000/month
+Laundry Income - 0
+Storage Income - 0
+Misc Income - 0
+
+Total Monthly Income: $2,000/month
+
+
+-----Box 2-----
+
+Expenses:
+Tax - $150/m 
+Insurance - $100/m 
+Utilities - $0
+        Electric - 
+        Water - 
+        Sewer - 
+        Garbage - 
+        Gas - 
+HOA Fees - $0
+Lawn or snow car - $0 
+Vacancy - $100/m 
+Repairs - $100/m 
+Capital Expendatures (CapEx) - $100/m 
+Property Management - $200/m
+Mortgage - $860/m 
+
+Total Monthly Expenses = $1610
+
+
+-----Box 3-----
+
+Cash Flow:
+Income - Expenses 
+    $2,000 - $1610 = $390
+
+Total Monthly Cash Flow = $390
+
+
+-----Box 4-----
+
+Cash on Cash ROI (Return On Investment):
+
+Down Payment - $40,000
+Closing Cost - $3,000
+Rehab Budget - $7,000 (painting, etc)
+Misc / Other - $0
+
+Total Investment = $50,000
+
+
+-----Total ROI-----
+
+Cashlow Anually / Total Investment
+$4,680 / $50,000 = 9.35% ROI 
+
+Cash On Cash ROI = 9.36%
+
+
+Duplex:
+$200,000 Purchase Price
+$2,000 Rental Income
